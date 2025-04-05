@@ -1,0 +1,70 @@
+{
+  "products": [
+    {
+      "name": "Produit 1",
+      "price": 100
+    },
+    {
+      "name": "Produit 1",
+      "price": 100
+    },
+    {
+      "name": "Produit 1",
+      "price": 100
+    },
+    {
+      "name": "Produit 1",
+      "price": 100
+    },
+    {
+      "name": "Produit 1",
+      "price": 100
+    },
+    {
+      "name": "Produit 1",
+      "price": 100
+    },
+    {
+      "name": "MacBook Air",
+      "price": 15000
+    },
+    {
+      "name": "MacBook Air",
+      "price": 15000
+    }
+  ],
+  "orders": [
+    {
+      "product": "Produit 1",
+      "quantity": 2
+    },
+    {
+      "product": "Produit 1",
+      "quantity": 2
+    },
+    {
+      "product": "Produit 1",
+      "quantity": 2
+    },
+    {
+      "product": "Produit 5",
+      "quantity": 10
+    },
+    {
+      "product": "Produit 5",
+      "quantity": 10
+    },
+    {
+      "product": "Produit 1",
+      "quantity": 2
+    },
+    {
+      "product": "MacBook Air",
+      "quantity": 1
+    },
+    {
+      "product": "MacBook Air",
+      "quantity": 1
+    }
+  ]
+}
